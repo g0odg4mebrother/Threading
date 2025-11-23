@@ -1,0 +1,9 @@
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\TemperatureConverterForm.csproj.AssemblyReference.cache
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\TemperatureConverterForm.csproj.GenerateResource.cache
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\TemperatureConverterForm.csproj.CoreCompileInputs.cache
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\влад\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
