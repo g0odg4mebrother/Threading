@@ -1,0 +1,9 @@
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ComplexCalculator.csproj.AssemblyReference.cache
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ComplexCalculator.csproj.GenerateResource.cache
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ComplexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\влад\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
